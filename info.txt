@@ -1,2 +1,2 @@
-version:1.0
-updateurl:https://github.com/neskvik33/checkVhod.lua/releases/download/VKBot/VKBOT.lua
+version:2.0
+updateurl:https://github.com/neskvik33/checkVhod.lua/releases/download/VKBot/checkVhod.luac
